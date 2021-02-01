@@ -44,8 +44,8 @@ git clone https://github.com/Hrishikesh7665/Mac-Changer-GUI.git
 
 - Install Required Modules
 
-1. pip3 install getmac
-2. pip3 install python-generate-mac
+1. sudo pip3 install getmac
+2. sudo pip3 install python-generate-mac
 
 - Or
 
