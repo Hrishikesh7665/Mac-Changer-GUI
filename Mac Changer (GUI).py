@@ -523,7 +523,7 @@ def aboutWindow():
     def H_b_click():
         webbrowser.open_new_tab('https://www.hackerrank.com/Hrishikesh7665')
     def fb_b_click():
-        webbrowser.open_new_tab('https://www.hackerrank.com/Hrishikesh7665')    
+        webbrowser.open_new_tab('https://www.facebook.com/Isjtijlfti.patra')    
 
     Label(Button_Frame,text="    ",font=("URW Bookman L",10),bg=background_Col).pack(side=LEFT)
     Button(Button_Frame,width=40,height=40,bd = 3,image = git_b_photoimage, command = git_b_click, compound = RIGHT).pack(side=LEFT)
