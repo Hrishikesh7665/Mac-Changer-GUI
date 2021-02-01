@@ -60,6 +60,7 @@ python3 "main.py"
 
 *sudo apt-get install python3-tk*
 
+*sudo pacman -S tk* (For Arch)
 
 ## Demo
 
