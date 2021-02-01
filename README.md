@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Supported%20OS-Linux-green.svg)](https://www.linux.org/pages/download/)
 
 
-# Mac-Changer-GUI
+# Mac Changer For Linux With GUI
 A simple Python GUI application to change mac address of Linux
 
 **Made In Python(3.9.1) With Tkinter GUI**
