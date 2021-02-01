@@ -21,7 +21,7 @@ A simple Python GUI application to change mac address of Linux
 3. You can generate MAC Address randomly with any company (e.g. Apple, Sony etc.) prefix
 4. You can set manual generated MAC Address
 5. You can backup your current MAC Address in case of something went wrong
-6. It Creat A Compleate Log File To Keep Record oF Changing Mac History
+6. It Create A Complete Log File To Keep Record Of Changing Mac History
 
 
 ## Requirements
